@@ -1,5 +1,5 @@
-FROM postgres:12
-LABEL maintainer="Brady Holt <brady.holt@gmail.com>"
+FROM postgres:13
+LABEL maintainer="Alejandro Sandoval Parra <asandoval95gmail.com>"
 
 ENV POSTGRES_DB=northwind
 ENV POSTGRES_USER=northwind
