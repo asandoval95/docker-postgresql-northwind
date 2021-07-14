@@ -9,7 +9,7 @@ sample data for testing from an application.
 
 ### Run
 ```
-docker run --rm -it -p 5432:5432 --name postgres-northwind bradymholt/postgres-northwind:latest
+docker run --rm -it -p 5432:5432 --name postgres-northwind asandoval95/postgres-northwind:latest
 ```
 
 ### Connect with psql
